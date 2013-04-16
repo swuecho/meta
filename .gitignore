@@ -1,0 +1,8 @@
+/Acme-SWUECHO-Meta-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+perltidy.LOG
+.tidyall.d/*
