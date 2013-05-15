@@ -2,7 +2,7 @@ package Acme::SWUECHO::Meta;
 
 use strict;
 use 5.008_005;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 use PPI;
 use Carp;
 use Pod::Simple::Search;

@@ -36,6 +36,10 @@
       },
       "runtime" : {
          "requires" : {
+            "Carp" : "0",
+            "Exporter::Auto" : "0",
+            "PPI" : "0",
+            "Pod::Simple::Search" : "0",
             "perl" : "5.008005"
          }
       },
@@ -57,7 +61,7 @@
          "web" : "https://github.com/swuecho/meta"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_contributors" : [
       "Hao <echowuhao@gmail.com>"
    ]
